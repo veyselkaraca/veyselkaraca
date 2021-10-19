@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning Git
 
 
-###Spotify Playing
-- [<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/	zcxz3smyrq7bxv1qwpt53wfmq)
+### Spotify Playing
+- [<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/zcxz3smyrq7bxv1qwpt53wfmq)
 
 ### Connect with me:
 [<img align="left" alt="veyselkaraca.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
