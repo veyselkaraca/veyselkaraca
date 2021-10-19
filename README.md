@@ -17,6 +17,12 @@
 [<img align="left" alt="Veysel Karaca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Veysel Karaca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 [website]: https://www.veyselkaraca.com.tr/
 [twitter]: https://twitter.com/veysellkrc
 [instagram]: https://www.instagram.com/veysell.krc/
