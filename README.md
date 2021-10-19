@@ -1,6 +1,7 @@
 ### Hi there I'm Veysel👋
 
 [![Website](https://img.shields.io/website?label=veyselkaraca.com.tr&style=for-the-badge&url=https%3A%2F%2Fveyselkaraca.com.tr)](https://www.veyselkaraca.com.tr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/veysellkrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuminkoykiran&screen_name=veysellkrc)
 
 - 🔭 I’m currently working on Full Stack Developer at AGroup Company
 
