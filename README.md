@@ -13,13 +13,6 @@
 ### Spotify Playing
 [<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/zcxz3smyrq7bxv1qwpt53wfmq)
 
-### Connect with me:
-[<img align="left" alt="veyselkaraca.com.tr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Veysel Karaca | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Veysel Karaca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Veysel Karaca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
