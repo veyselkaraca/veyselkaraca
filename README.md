@@ -1,7 +1,9 @@
 ### Hi there I'm Veysel👋
 
 [![Website](https://img.shields.io/website?label=veyselkaraca.com.tr&style=for-the-badge&url=https%3A%2F%2Fveyselkaraca.com.tr)](https://www.veyselkaraca.com.tr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/veysellkrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuminkoykiran&screen_name=veysellkrc)
+[![Twitter: veysellkrc](https://img.shields.io/twitter/follow/veysellkrc?style=social)](https://twitter.com/veysellkrc)
+[![Linkedin: veyselkaraca](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselkaraca/)](https://www.linkedin.com/in/veyselkaraca/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/veyselkaraca)
 
 - 🔭 I’m currently working on Full Stack Developer at AGroup Company
 
