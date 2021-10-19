@@ -15,6 +15,12 @@
 [<img align="left" alt="Veysel Karaca | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Veysel Karaca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Veysel Karaca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://www.veyselkaraca.com.tr/
+[twitter]: https://twitter.com/veysellkrc
+[instagram]: https://www.instagram.com/veysell.krc/
+[linkedin]: https://www.linkedin.com/in/veyselkaraca/
+
 - - <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,7 +29,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[website]: https://www.veyselkaraca.com.tr/
-[twitter]: https://twitter.com/veysellkrc
-[instagram]: https://www.instagram.com/veysell.krc/
-[linkedin]: https://www.linkedin.com/in/veyselkaraca/
