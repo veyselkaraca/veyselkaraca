@@ -10,14 +10,6 @@
 - 🌱 I’m currently learning Git
 
 
-### Spotify Playing
-[<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/zcxz3smyrq7bxv1qwpt53wfmq)
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
 [website]: https://www.veyselkaraca.com.tr/
 [twitter]: https://twitter.com/veysellkrc
 [instagram]: https://www.instagram.com/veysell.krc/
