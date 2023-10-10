@@ -5,7 +5,7 @@
 [![Linkedin: veyselkaraca](https://img.shields.io/badge/-veyselkaraca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselkaraca/)](https://www.linkedin.com/in/veyselkaraca/)
 [![GitHub veyselkaraca](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/veyselkaraca)
 
-- 🔭 I’m currently working on Full Stack Developer at AGroup Company
+- 🔭 I’m currently working on DevOps Specialist at Turkcell Global Bilgi
 
 - 🌱 I’m currently learning Git
 
