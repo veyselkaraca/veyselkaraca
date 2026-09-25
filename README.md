@@ -5,21 +5,38 @@
 [![Linkedin: veyselkaraca](https://img.shields.io/badge/-veyselkaraca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselkaraca/)](https://www.linkedin.com/in/veyselkaraca/)
 [![GitHub veyselkaraca](https://img.shields.io/github/followers/veyselkaraca?label=follow&style=social)](https://github.com/veyselkaraca)
 
-- 🔭 I’m currently working on DevOps Specialist at Turkcell Global Bilgi
+DevOps Specialist based in Istanbul, building CI/CD pipelines, automating infrastructure, and designing observability platforms in a regulated telecom environment.
 
-- 🌱 I’m currently learning Git
+- 🔧 Currently working on CI/CD, infrastructure automation, and observability platforms at **Turkcell Global Bilgi**
+- 🏗️ Led my company's first OpenShift migration
+- 🧪 Building **a self-hosted, all-in-one open-source platform** (Nextcloud/YunoHost-style) as a side project
+- 📝 I write about DevOps, platform engineering, and infrastructure automation on my [blog](https://veyselkaraca.com.tr)
+- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/veyselkaraca)
 
+## 🛠️ Tech Stack
 
-[website]: https://www.veyselkaraca.com.tr/
-[twitter]: https://twitter.com/veysellkrc
-[instagram]: https://www.instagram.com/veysell.krc/
-[linkedin]: https://www.linkedin.com/in/veyselkaraca/
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Veysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=veyselkaraca&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=veyselkaraca&theme=dark)
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veyselkaraca)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://veyselkaraca.com.tr)
