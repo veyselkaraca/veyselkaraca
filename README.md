@@ -8,8 +8,7 @@
 DevOps Specialist based in Istanbul, building CI/CD pipelines, automating infrastructure, and designing observability platforms in a regulated telecom environment.
 
 - 🔧 Currently working on CI/CD, infrastructure automation, and observability platforms at **Turkcell Global Bilgi**
-- 🏗️ Led my company's first OpenShift migration
-- 🧪 Building **a self-hosted, all-in-one open-source platform** (Nextcloud/YunoHost-style) as a side project
+- 🏗️ Involved in the company's first OpenShift migration
 - 📝 I write about DevOps, platform engineering, and infrastructure automation on my [blog](https://veyselkaraca.com.tr)
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/veyselkaraca)
 
