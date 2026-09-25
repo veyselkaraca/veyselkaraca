@@ -32,11 +32,9 @@ DevOps Specialist based in Istanbul, building CI/CD pipelines, automating infras
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![Veysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=veyselkaraca&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=veyselkaraca&theme=dark)
 
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veyselkaraca)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://veyselkaraca.com.tr)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://blog.veyselkaraca.com.tr)
